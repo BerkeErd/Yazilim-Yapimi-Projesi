@@ -1,0 +1,10 @@
+C:\Users\B\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim Yapimi Proje.csprojResolveAssemblyReference.cache
+C:\Users\B\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.Form1.resources
+C:\Users\B\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim_Yapimi_Proje.Properties.Resources.resources
+C:\Users\B\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim Yapimi Proje.csproj.GenerateResource.Cache
+C:\Users\B\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim Yapimi Proje.csproj.CoreCompileInputs.cache
+C:\Users\B\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\bin\Debug\Yazilim Yapimi Proje.exe.config
+C:\Users\B\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\bin\Debug\Yazilim Yapimi Proje.exe
+C:\Users\B\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\bin\Debug\Yazilim Yapimi Proje.pdb
+C:\Users\B\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim Yapimi Proje.exe
+C:\Users\B\source\repos\Yazilim Yapimi Proje\Yazilim Yapimi Proje\obj\Debug\Yazilim Yapimi Proje.pdb
